@@ -6,11 +6,11 @@ For blogging, I write about [tech](https://tech.wandersick.com/)  ‍💻 and [p
 
 See you around! 🌍 Or, if you want to [buy me a coffee](https://ko-fi.com/wandersick) :)
 
-## 💬 Find me on the Internet
+## 💬 Find me online
 
 - [Twitter](https://twitter.com/wandersick)
 - [Facebook](https://facebook.com/wandersick)
-- [Medium](https://medium.com/@wandersick) ([Tech](https://medium.com/wandersick)/[Personal Growth](https://medium.com/wandersick-bookshelf))
+- [Medium](https://medium.com/@wandersick) ([Tech](https://medium.com/wandersick) and [Personal Growth](https://medium.com/wandersick-bookshelf))
 
 <!--
 **wandersick/wandersick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
