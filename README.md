@@ -1,6 +1,4 @@
-### Hi there!
-
-It's wandersick here 👋.
+### Hi 👋 wandersick here
 
 For tech, you may know me from assistive software [AeroZoom](https://tech.wandersick.com/p/aerozoom-for-windows-7-magnifier.html) 🔎 as seen on Lifehacker, numerous popular scripts published on Microsoft Technet Gallery such as Command Prompt 'englishizer', [Englishize Cmd](https://tech.wandersick.com/p/change-non-english-command-line.html), and MAC address changer, [ChMac](https://tech.wandersick.com/2019/06/chmac-windows-command-to-change-mac.html), and automated services e.g. [English Quotes](https://www.facebook.com/Quotes.English) for daily inspiration 💡
 
@@ -12,7 +10,7 @@ See you around! 🌍 Or, if you want to [buy me a coffee](https://ko-fi.com/wand
 
 - [Twitter](https://twitter.com/wandersick)
 - [Facebook](https://facebook.com/wandersick)
-- [Medium](https://medium.com/@wandersick)
+- [Medium](https://medium.com/@wandersick) ([Tech](https://medium.com/wandersick)/[Personal Growth](https://medium.com/wandersick-bookshelf))
 
 <!--
 **wandersick/wandersick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
