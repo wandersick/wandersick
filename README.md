@@ -10,7 +10,7 @@ See you around! 🌍 Or, if you want to [buy me a coffee](https://ko-fi.com/wand
 
 - [Twitter](https://twitter.com/wandersick)
 - [Facebook](https://facebook.com/wandersick)
-- [Medium](https://medium.com/@wandersick) ([tech](https://medium.com/wandersick) or [self growth](https://medium.com/wandersick-bookshelf))
+- [Medium](https://medium.com/@wandersick) ([tech](https://tech.wandersick.com/) or [self growth](https://bookshelf.wandersick.com/))
 
 <!--
 **wandersick/wandersick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
